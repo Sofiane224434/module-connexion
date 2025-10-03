@@ -21,7 +21,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $_SESSION['prenom'] = $user['prenom'];
             $_SESSION['password'] = $password;
 
-            if ($user['id'] === 1) {
+            if ($user['id'] == 1) {
                 $_SESSION['admin_logged_in'] = true;
             }
 
