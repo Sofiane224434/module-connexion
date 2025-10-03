@@ -2,7 +2,7 @@
 function connexion_database()
 {
     try {
-        $pdo = new PDO("mysql:host=localhost;dbname=moduleconnexion", "root", "");
+        $pdo = new PDO("mysql:host=localhost;dbname=sofiane-kherarfa_portfolio", "azim.404", "Sosoplesk");
         $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
         return $pdo;
     } catch (PDOException $e) {
