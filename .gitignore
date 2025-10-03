@@ -1,0 +1,22 @@
+# Dépendances Node.js
+node_modules/
+
+# Fichiers de build ou cache
+dist/
+build/
+.cache/
+.tmp/
+
+# Systèmes d’OS
+.DS_Store
+Thumbs.db
+
+# Environnements
+.env
+.env.local
+.env.*.local
+
+asset/css/input.css
+package-lock.json
+package.json
+settings.json
