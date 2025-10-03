@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="asset/css/output.css">
     <link href="https://cdn.jsdelivr.net/npm/flowbite@3.1.2/dist/flowbite.min.css" rel="stylesheet" />
     <script src="https://cdn.jsdelivr.net/npm/flowbite@3.1.2/dist/flowbite.min.js"></script>
-    <link rel="shortcut icon" href="./asset/images/azim404.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="asset/images/azim404.ico" type="image/x-icon">
     <title>Azim404</title>
 </head>
 
